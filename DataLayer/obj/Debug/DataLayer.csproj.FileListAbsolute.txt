@@ -1,0 +1,114 @@
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part18\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part19\MyCms\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part20\MyCms\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part21\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part22\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Barnamenevisan\Desktop\TopLearn.Com_Asp.NetMVC\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.pdb
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\DataLayer.dll.config
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\DataLayer.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\DataLayer.pdb
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Razor.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Razor.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Mvc.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.Razor.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Razor.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.dll
+E:\c#\Asp.Net MVC Basic\آموزش-AspNet-MVC-به-همراه-پروژه-عملی\TopLearn.Com_Asp.NetMVC_Part23.rar\TopLearn.Com_Asp.NetMVC_Part23\MyCms\DataLayer\obj\Debug\DataLayer.pdb
